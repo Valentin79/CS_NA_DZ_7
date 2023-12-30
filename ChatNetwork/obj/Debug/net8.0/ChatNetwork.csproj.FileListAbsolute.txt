@@ -1,0 +1,11 @@
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatNetwork\bin\Debug\net8.0\ChatNetwork.deps.json
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatNetwork\bin\Debug\net8.0\ChatNetwork.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatNetwork\bin\Debug\net8.0\ChatNetwork.pdb
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatNetwork\obj\Debug\net8.0\ChatNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatNetwork\obj\Debug\net8.0\ChatNetwork.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatNetwork\obj\Debug\net8.0\ChatNetwork.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatNetwork\obj\Debug\net8.0\ChatNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatNetwork\obj\Debug\net8.0\ChatNetwork.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatNetwork\obj\Debug\net8.0\refint\ChatNetwork.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatNetwork\obj\Debug\net8.0\ChatNetwork.pdb
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatNetwork\obj\Debug\net8.0\ref\ChatNetwork.dll

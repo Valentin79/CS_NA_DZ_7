@@ -1,0 +1,17 @@
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\bin\Debug\net8.0\ChatDB.deps.json
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\bin\Debug\net8.0\ChatDB.runtimeconfig.json
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\bin\Debug\net8.0\ChatDB.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\bin\Debug\net8.0\ChatDB.pdb
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\bin\Debug\net8.0\ChatCommon.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\bin\Debug\net8.0\ChatCommon.pdb
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\obj\Debug\net8.0\ChatDB.csproj.AssemblyReference.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\obj\Debug\net8.0\ChatDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\obj\Debug\net8.0\ChatDB.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\obj\Debug\net8.0\ChatDB.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\obj\Debug\net8.0\ChatDB.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\obj\Debug\net8.0\ChatDB.csproj.CopyComplete
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\obj\Debug\net8.0\ChatDB.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\obj\Debug\net8.0\refint\ChatDB.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\obj\Debug\net8.0\ChatDB.pdb
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\obj\Debug\net8.0\ChatDB.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_NA_Sem_5\ChatDB\obj\Debug\net8.0\ref\ChatDB.dll
